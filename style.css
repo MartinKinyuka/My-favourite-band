@@ -98,5 +98,10 @@ h2{
       max-height: 290px;
       display: inline;
     }
-      
+    .favourite{
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 100px;
+      text-align: center;
+    }
   
