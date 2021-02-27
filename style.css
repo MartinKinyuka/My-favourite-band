@@ -1,0 +1,10 @@
+body{background-color: deepskyblue;}
+
+.center{
+  width: 25%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+
