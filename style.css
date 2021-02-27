@@ -24,7 +24,7 @@ body{background-color: deepskyblue;}
 }
 
 h1{
-  text-align: center;
+  margin-left: 675px;
 }
 
 h2{
@@ -62,4 +62,13 @@ h2{
      margin-top: -180px;
      line-height: 30px;
      
+   }
+   .photo{
+    width: 40%;
+    margin-right: auto;
+    margin-left: 533px;
+    display: block;
+    margin-top: -1000px;
+    width: 550px;
+
    }
