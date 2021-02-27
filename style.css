@@ -48,3 +48,18 @@ h2{
      margin-top: -700px;
      height: 700px
    }
+
+   
+   .bio{
+     font-weight: lighter;
+     font-family: cursive;
+   }
+
+   .Joshua{
+     font-weight: lighter;
+     font-family: cursive;
+     margin-left: 1100px;
+     margin-top: -180px;
+     line-height: 30px;
+     
+   }
