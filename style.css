@@ -34,7 +34,16 @@ h2{
 
 .josh{
   display: inline;
-  margin-left: 800px;
-  
-  
-}
+  margin-left: 900px;
+  }
+
+  .Tyler{
+    height: 700px;
+    display: block;
+   }
+
+   .Dun{
+     display: block;
+     margin-left: 930px;
+     margin-top: -700px;
+   }
