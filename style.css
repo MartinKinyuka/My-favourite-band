@@ -20,14 +20,12 @@ body{background-color: #379683;}
 .right{
   display: block;
   float: right;
-  width: 700px;
-  max-height: 700px;
+  max-height: 500px;
 }
 
 .photo{
-width: 700px;
   clear: both;
-  max-height: 700px;
+  max-height: 500px;
 }
 
 
