@@ -18,11 +18,12 @@ body{background-color: deepskyblue;}
 
 .right{
   display: block;
-  margin-left: auto;
-  margin-top: -400px;
-  height: 700px;
+  float: right;
+  ;
 
 }
+
+
 
 h1{
   text-align: center;
