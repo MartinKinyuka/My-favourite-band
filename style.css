@@ -20,6 +20,7 @@ body{background-color: deepskyblue;}
   display: block;
   margin-left: auto;
   margin-top: -400px;
+  height: 700px;
 
 }
 
@@ -36,7 +37,10 @@ h2{
 
 .josh{
   display: inline;
-  margin-left: 950px;
+  position:absolute;
+  right: 100px;
+  margin-top: -5px;
+
   }
 
   .Tyler{
