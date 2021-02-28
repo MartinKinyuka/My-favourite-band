@@ -108,9 +108,11 @@ h2{
       margin-left: auto;
       padding-left: 0px;
     }
+  
+    
   ul{
-    border: 5px dotted black;
+    border: 1px dotted black;
+    width: 500px;
     height: 100px;
-    width: 900px;
     overflow: auto;
   }
