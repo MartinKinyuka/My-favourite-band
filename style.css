@@ -93,6 +93,14 @@ h2{
       text-align: center;
       
     }
+
+    .list{
+      font-weight: bolder;
+      align-items: center;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
     
     
     .favourite{
