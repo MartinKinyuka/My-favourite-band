@@ -20,6 +20,12 @@ body{background-color: deepskyblue;}
 .right{
   display: block;
   float: right;
+  height: 700px;
+}
+
+.photo{
+  height: 700px;
+  clear: both;
 }
 
 
@@ -32,39 +38,50 @@ h1{
 }
 
 h2{
-  display: inline;
-  margin-left: 100px;
+  text-align: center;
+  margin-left: auto;
+  margin-right:auto ;
 }
 
 .josh{
-  display: inline;
-  position:absolute;
-  right: 100px;
-  margin-top: -5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 
   }
 
   .Tyler{
-    height: 500px;
+    height: 700px;
     display: block;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
    }
 
    .Dun{
      display: block;
-     float: right;
-     height: 500px
+     align-items: center;
+     height: 700px;
+     margin-right: auto;
+     margin-left: auto;
+     clear: both;
    }
+   
 
    
    .bio{
      font-weight: lighter;
      font-family: cursive;
+     text-align: center;
+     margin-left: 0px;
    }
 
    .Joshua{
      font-weight: lighter;
      font-family: cursive;
-     float: right; 
+     text-align: center;
+     margin-left: 0px;
+     
    }
    a:hover{
      color:whitesmoke;
