@@ -12,6 +12,7 @@ body{background-color: deepskyblue;}
   margin-top: 100px;
   margin-left: 0px;
   font-size: initial;
+  display: inline;
   
 }
 
@@ -19,7 +20,8 @@ body{background-color: deepskyblue;}
 .right{
   display: block;
   float: right;
-  ;
+
+  
 
 }
 
@@ -29,6 +31,7 @@ h1{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  clear: both;
 }
 
 h2{
@@ -68,10 +71,8 @@ h2{
      
    }
    .photo{
-    width: 40%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width:25%
+  
     
    }
    a:hover{
